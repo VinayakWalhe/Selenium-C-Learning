@@ -35,17 +35,17 @@ namespace Selenium_with_C__Learning
             Console.WriteLine("Hello Test!!!!");
         }
 
-        // [TestMethod]
-        // public void TestMethod2()
-        // {
-        //     Console.WriteLine("Hello Test!!!!");
-        // }
+        [TestMethod]
+        public void TestMethod2()
+        {
+            Console.WriteLine("Hello Test!!!!");
+        }
         
-        // [TestMethod]
-        // public void TestMethod3()
-        // {
-        //     Console.WriteLine("Hello Test!!!!");
-        // }
+        [TestMethod]
+        public void TestMethod3()
+        {
+            Console.WriteLine("Hello Test!!!!");
+        }
         //QA
     }
 
