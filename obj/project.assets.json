@@ -6233,11 +6233,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\PC43\\Documents\\Vinayak\\Automation\\Selenium with C# Learning\\Selenium with C# Learning.csproj",
+      "projectUniqueName": "c:\\Users\\PC43\\Documents\\GitHub\\Selenium-C-Learning\\Selenium with C# Learning.csproj",
       "projectName": "Selenium with C# Learning",
-      "projectPath": "c:\\Users\\PC43\\Documents\\Vinayak\\Automation\\Selenium with C# Learning\\Selenium with C# Learning.csproj",
+      "projectPath": "c:\\Users\\PC43\\Documents\\GitHub\\Selenium-C-Learning\\Selenium with C# Learning.csproj",
       "packagesPath": "C:\\Users\\PC43\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\PC43\\Documents\\Vinayak\\Automation\\Selenium with C# Learning\\obj\\",
+      "outputPath": "c:\\Users\\PC43\\Documents\\GitHub\\Selenium-C-Learning\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\PC43\\AppData\\Roaming\\NuGet\\NuGet.Config"
