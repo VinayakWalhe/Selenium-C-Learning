@@ -23,10 +23,17 @@ namespace Selenium_with_C__Learning
     [TestClass]
     public class TestClass
     {
-        [TestMethod]
+        [TestMethod, TestCategory("SmokeTest")]
         public void Testcase1()
         {
             Console.WriteLine("this is Test case 1");
+        }
+
+        [Ignore]
+        [TestMethod, TestCategory("SmokeTest")]
+        public void Testcase2()
+        {
+            Console.WriteLine("this is Test case 2");
         }
 
     }
